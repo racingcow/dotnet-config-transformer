@@ -1,6 +1,6 @@
 {
   "name": "dotnet-config-transformer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "lib/dotnet-config-transformer.js",
   "description": "Node module to perform .Net configuration transforms",
   "homepage": "https://github.com/racingcow/dotnet-config-transformer",
